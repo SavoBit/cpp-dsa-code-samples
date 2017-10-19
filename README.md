@@ -1,0 +1,2 @@
+# What is this repo is for?
+In this repo, I keep all the C++ codes I've written to learn Data Structures and Algorithms. I used different versions of GCC for testing these codes. So it's not guaranteed to run on any single version of GCC. 
